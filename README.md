@@ -1,7 +1,4 @@
-### 👋 Hi there! I'm hiu2k69!
-
-💻 I'm a passionate developer who loves coding and learning new tech every day.  
-🔧 Currently working with PHP, Laravel, Vue.js, Docker, and more.
+### 👋 Hi! I'm Minh Hieu!
 
 ---
 
@@ -22,8 +19,4 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-### 🌱 Always learning and growing 🚀  
-Connect with me on [WakaTime](https://wakatime.com/@hiu2k69) or check out my GitHub projects!
 
